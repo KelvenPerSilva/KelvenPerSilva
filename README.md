@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Kelven Silva
 
-[![GitHub seguidores](https://img.shields.io/github/followers/seu-usuario?label=Seguir&style=social)](https://github.com/seu-usuario)
-[![Linkedin Badge](https://img.shields.io/badge/-Kelven%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/seu-linkedin)
+[![GitHub seguidores](https://img.shields.io/github/followers/seu-usuario?label=Seguir&style=social)]([https://github.com/seu-usuario](https://github.com/KelvenPerSilva))
+[![Linkedin Badge](https://img.shields.io/badge/-Kelven%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/kelven-silva-83677414b/))
 
 ## Sobre Mim
 
